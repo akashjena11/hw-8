@@ -1,4 +1,4 @@
-source("~/Documents/Rstuff/hw-8/algo 2/headers/headers.R")
+source("~/Documents/Rstuff/hw-8/algo2/headers/headers.R")
 
 rejection_sampling= function(n, targ_pdf, prop_pdf, prop_ran, env_const){
   
