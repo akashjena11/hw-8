@@ -1,4 +1,4 @@
-source("~/Documents/Rstuff/hw-8/algo 1/main/main.R")
+source("~/Documents/Rstuff/hw-8/algo1/main/main.R")
 library(testthat)
 
 test_that("ks_test 1", {
