@@ -1,4 +1,4 @@
-source("~/Documents/Rstuff/hw 8/algo 1/headers/def_cdf_inv.R")
+source("~/Documents/Rstuff/hw-8/algo 1/headers/def_cdf_inv.R")
 library(testthat)
 
 test_that("def_cdf_inv testing", {
